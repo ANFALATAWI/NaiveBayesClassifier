@@ -16,7 +16,7 @@ The diabetes data set consists of 768 data points, each having 9 features:
 - Age
 - Outcome (Label)
 
-The original source of the data is [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). Download it from [here](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv)
+The original source of the data is [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). Download it from [here](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv).
 
 
 # Libraries
