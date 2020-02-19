@@ -27,5 +27,5 @@ The original source of the data is [UCI Machine Learning Repository](http://arch
 ## Implementation
 **See [notebook](https://github.com/ANFALATAWI/NaiveBayesClassifier/blob/master/NaiveBayes_Classifier.ipynb)**.
 
-# Conclusion
+## Conclusion
 This project successfully implements the Naive Bayes classifier based on the theory, producing results that match the reference implementation of the SKLearn library.
